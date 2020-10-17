@@ -1,8 +1,0 @@
-{
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true,
-    "python.linting.pycodestyleEnabled": false,
-    "python.formatting.provider": "black",
-    "python.formatting.blackArgs": ["--line-length", "100"],
-    "python.pythonPath": "/home/john/.conda/envs/flasktextenv/bin/python"
-}
