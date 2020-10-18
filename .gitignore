@@ -1,1 +1,4 @@
 .vscode/*
+.git/*
+__pychache__/*
+app/__pycache__/*
